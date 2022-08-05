@@ -14,16 +14,16 @@
 <br />
 
 ### About Me 🚀
-🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
+🌱 I’m a PHP Full stack developer with a bachelor degree in Computer Science. </br>
+🌱 I’ve founded a SaaS B2B startup that gives social media automation to small and medium businesses. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- [Software Develpment Engineer (FreeCharge)](https://www.freecharge.in/) - (Jul'21-Present)
-- [BAT Ambassador (Brave)](https://brave.com/) - (Apr'21-Present)
-- [Software Engineer (To The New)](https://www.tothenew.com/) - (Dec'20-Jul'21)
+- [Founder (Flidel)](https://www.flidel.com/) - (Jul'20-Present)
+- [Web Developer (Ideal Devs)] - (Apr'18-Apr'19)
+- [Freelancer] - (Dec'16-Jul'18)
 
 ![Adhik Joshi's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adhikjoshi&layout=compact&langs_count=8&hide_border=true)
 <br />
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=adhikjoshi.adhikjoshi)
