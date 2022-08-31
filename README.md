@@ -19,7 +19,7 @@
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- [Founder (Flidel)](https://www.flidel.com/) - (Jul'20-Present)
+- [Founder (Flidel)](https://www.flidel.com/) - (Jul'20- July 2022)
 - [Web Developer (Ideal Devs)] - (Apr'18-Apr'19)
 - [Freelancer] - (Dec'16-Jul'18)
 
