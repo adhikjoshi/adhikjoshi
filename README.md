@@ -14,8 +14,9 @@
 <br />
 
 ### About Me 🚀
-🌱 I’m a PHP Full stack developer with a bachelor degree in Computer Science. </br>
-🌱 I’ve founded a SaaS B2B startup that gives social media automation to small and medium businesses. </br>
+🌱  I’m a PHP Full stack developer with a bachelor degree in Computer Science. </br>
+💻  6+ years of experience in PHP, Laravel, REST APIs, Servers, JSON, XML APIs, CSS, HTML5, Backend Development </br>
+🌱  Exceptional team management and problem solving skills </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
