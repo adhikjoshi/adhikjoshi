@@ -24,7 +24,6 @@
 - [Web Developer (Ideal Devs)] - (Apr'18-Apr'19)
 - [Freelancer] - (Dec'16-Jul'18)
 - [ModelsLab] - (Oct'22-Present)
-![Adhik Joshi's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adhikjoshi&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=adhikjoshi.adhikjoshi)
