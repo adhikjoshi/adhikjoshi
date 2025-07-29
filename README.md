@@ -14,16 +14,16 @@
 <br />
 
 ### About Me 🚀
-🌱  I’m a PHP Full stack developer with a bachelor degree in Computer Science. </br>
-💻  6+ years of experience in PHP, Laravel, REST APIs, Servers, JSON, XML APIs, CSS, HTML5, Backend Development </br>
+🌱  I’m a Full stack developer with a bachelor degree in Computer Science. </br>
+💻  12+ years of experience in PHP, Laravel, REST APIs, Servers, JSON, XML APIs, CSS, HTML5, Backend Development </br>
 🌱  Exceptional team management and problem solving skills </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+👨‍💻  I am passionate about AI & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
 - [Founder (Flidel)](https://www.flidel.com/) - (Jul'20- July 2022)
 - [Web Developer (Ideal Devs)] - (Apr'18-Apr'19)
 - [Freelancer] - (Dec'16-Jul'18)
-
+- [ModelsLab] - (Oct'22-Present)
 ![Adhik Joshi's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adhikjoshi&layout=compact&langs_count=8&hide_border=true)
 <br />
 
